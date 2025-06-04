@@ -1,5 +1,5 @@
 **Crop Identification Systems**
-Table of Contents • Introduction • Key Features • Installation • Usage • Dataset • Model Architecture • Results • Future Improvements • Contributing • License • Acknowledgments
+Table of Contents • Introduction • Key Features • Installation • Dataset • Model Architecture • Results • Future Improvements • Contributing • License • Acknowledgments
 
 **Introduction**
 EXGCIEIS is a machine learning-powered platform designed to guide farmers, agronomists, and policy-makers in selecting optimal crops based on region-specific agro-climatic conditions and economic parameters. The system integrates advanced classification using XGBoost with linear regression-based economic forecasting to provide dual-layered insights: what crop to grow, and its potential profitability. XECROS addresses critical challenges in modern agriculture, such as climatic volatility, class imbalance in crop data, and lack of economic foresight in traditional crop planning.
